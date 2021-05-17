@@ -16,7 +16,11 @@ body {
 
 #post{
     padding: 1.5em;
+    background: white;
+    padding: 1em;
 }
+
+#post img {width: 100%;}
 
 #cabecera{
     background-color: #33a;
@@ -42,10 +46,6 @@ body {
     font-size: 1.5em;
 }
 
-#post{
-    background: white;
-    padding: 1em;
-}
 
 #footer{
     background-color: #777;
