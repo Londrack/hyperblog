@@ -8,19 +8,12 @@ body {
 
 #container {
     width:70%;
-    text-align: left;
-    border: 1px solid #ddd;
+    text-align: left; border: 1px solid #ddd;
     background-color: white;
     margin: 0 auto;
 }
 
-#post{
-    padding: 1.5em;
-    background: white;
-    padding: 1em;
-}
-
-#post img {width: 100%;}
+#container h1{font-size: 1.5em; }
 
 #cabecera{
     background-color: #33a;
@@ -42,13 +35,17 @@ body {
     margin: 0 0 0 0.1em;
 }
 
-#container h1{
-    font-size: 1.5em;
+
+#post{
+    padding: 1.5em;
+    background: white;
+    padding: 1em;
 }
 
+#post img {width: 100%;}
 
 #footer{
-    background-color: #777;
+    background-color: #33a;
     color: white;
     text-align: center;
     padding: 1.5em;
